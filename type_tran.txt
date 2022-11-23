@@ -1,0 +1,5 @@
+id	tran desc
+3	cash out
+1	salary
+2	cash in
+4	fee
